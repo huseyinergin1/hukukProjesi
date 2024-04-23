@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microsoft Visual Studio\\2022\\Projeler\\hukukProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{968C9F0A-ED73-4CF5-9399-6317AA2C9C4E}|hukukProjesi\\hukukProjesi.csproj|d:\\microsoft visual studio\\2022\\projeler\\hukukprojesi\\hukukprojesi\\views\\blog\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{968C9F0A-ED73-4CF5-9399-6317AA2C9C4E}|hukukProjesi\\hukukProjesi.csproj|solutionrelative:hukukprojesi\\views\\blog\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968C9F0A-ED73-4CF5-9399-6317AA2C9C4E}|hukukProjesi\\hukukProjesi.csproj|d:\\microsoft visual studio\\2022\\projeler\\hukukprojesi\\hukukprojesi\\views\\home\\counter2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{968C9F0A-ED73-4CF5-9399-6317AA2C9C4E}|hukukProjesi\\hukukProjesi.csproj|solutionrelative:hukukprojesi\\views\\home\\counter2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968C9F0A-ED73-4CF5-9399-6317AA2C9C4E}|hukukProjesi\\hukukProjesi.csproj|d:\\microsoft visual studio\\2022\\projeler\\hukukprojesi\\hukukprojesi\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{968C9F0A-ED73-4CF5-9399-6317AA2C9C4E}|hukukProjesi\\hukukProjesi.csproj|solutionrelative:hukukprojesi\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968C9F0A-ED73-4CF5-9399-6317AA2C9C4E}|hukukProjesi\\hukukProjesi.csproj|d:\\microsoft visual studio\\2022\\projeler\\hukukprojesi\\hukukprojesi\\views\\about\\avukat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{968C9F0A-ED73-4CF5-9399-6317AA2C9C4E}|hukukProjesi\\hukukProjesi.csproj|solutionrelative:hukukprojesi\\views\\about\\avukat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968C9F0A-ED73-4CF5-9399-6317AA2C9C4E}|hukukProjesi\\hukukProjesi.csproj|D:\\Microsoft Visual Studio\\2022\\Projeler\\hukukProjesi\\hukukprojesi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968C9F0A-ED73-4CF5-9399-6317AA2C9C4E}|hukukProjesi\\hukukProjesi.csproj|solutionrelative:hukukprojesi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968C9F0A-ED73-4CF5-9399-6317AA2C9C4E}|hukukProjesi\\hukukProjesi.csproj|D:\\Microsoft Visual Studio\\2022\\Projeler\\hukukProjesi\\hukukprojesi\\controllers\\authoradmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968C9F0A-ED73-4CF5-9399-6317AA2C9C4E}|hukukProjesi\\hukukProjesi.csproj|solutionrelative:hukukprojesi\\controllers\\authoradmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Projeler\\hukukProjesi\\hukukProjesi\\Views\\Blog\\Detail.cshtml",
+              "RelativeDocumentMoniker": "hukukProjesi\\Views\\Blog\\Detail.cshtml",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Projeler\\hukukProjesi\\hukukProjesi\\Views\\Blog\\Detail.cshtml",
+              "RelativeToolTip": "hukukProjesi\\Views\\Blog\\Detail.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAD4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T20:52:39.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter2.cshtml",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Projeler\\hukukProjesi\\hukukProjesi\\Views\\Home\\Counter2.cshtml",
+              "RelativeDocumentMoniker": "hukukProjesi\\Views\\Home\\Counter2.cshtml",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Projeler\\hukukProjesi\\hukukProjesi\\Views\\Home\\Counter2.cshtml",
+              "RelativeToolTip": "hukukProjesi\\Views\\Home\\Counter2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T20:50:55.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Avukat.cshtml",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Projeler\\hukukProjesi\\hukukProjesi\\Views\\About\\Avukat.cshtml",
+              "RelativeDocumentMoniker": "hukukProjesi\\Views\\About\\Avukat.cshtml",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Projeler\\hukukProjesi\\hukukProjesi\\Views\\About\\Avukat.cshtml",
+              "RelativeToolTip": "hukukProjesi\\Views\\About\\Avukat.cshtml",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAIwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T20:45:35.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Projeler\\hukukProjesi\\hukukProjesi\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "hukukProjesi\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Projeler\\hukukProjesi\\hukukProjesi\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "hukukProjesi\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T18:25:48.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Projeler\\hukukProjesi\\hukukProjesi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "hukukProjesi\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Projeler\\hukukProjesi\\hukukProjesi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "hukukProjesi\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:44:25.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorAdminController.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Projeler\\hukukProjesi\\hukukProjesi\\Controllers\\AuthorAdminController.cs",
+              "RelativeDocumentMoniker": "hukukProjesi\\Controllers\\AuthorAdminController.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Projeler\\hukukProjesi\\hukukProjesi\\Controllers\\AuthorAdminController.cs",
+              "RelativeToolTip": "hukukProjesi\\Controllers\\AuthorAdminController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAswKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T20:58:46.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
