@@ -35,6 +35,20 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
+    <EntitySetMapping Name="Contacts">
+      <EntityTypeMapping TypeName="hukukDBModel.Contacts">
+        <MappingFragment StoreEntitySet="Contacts">
+          <ScalarProperty Name="ContactStatus" ColumnName="ContactStatus" />
+          <ScalarProperty Name="ContactDate" ColumnName="ContactDate" />
+          <ScalarProperty Name="ContactMessage" ColumnName="ContactMessage" />
+          <ScalarProperty Name="ContactSubject" ColumnName="ContactSubject" />
+          <ScalarProperty Name="ContactPhone" ColumnName="ContactPhone" />
+          <ScalarProperty Name="ContactMail" ColumnName="ContactMail" />
+          <ScalarProperty Name="ContactNameSurname" ColumnName="ContactNameSurname" />
+          <ScalarProperty Name="ContactId" ColumnName="ContactId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
     <EntitySetMapping Name="sysdiagrams">
       <EntityTypeMapping TypeName="hukukDBModel.sysdiagrams">
         <MappingFragment StoreEntitySet="sysdiagrams">

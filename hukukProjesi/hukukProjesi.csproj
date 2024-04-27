@@ -3750,6 +3750,9 @@
     <Compile Include="Models\Blog.cs">
       <DependentUpon>Model.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\Contacts.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
     <Compile Include="Models\Model.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -4016,6 +4019,8 @@
     <Content Include="Views\Home\Blogs.cshtml" />
     <Content Include="Views\Home\Counter2.cshtml" />
     <Content Include="Views\Blog\Search.cshtml" />
+    <Content Include="Views\Contact\Second.cshtml" />
+    <Content Include="Views\AuthorAdmin\Contact.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

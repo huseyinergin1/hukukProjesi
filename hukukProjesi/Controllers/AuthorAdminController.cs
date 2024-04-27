@@ -24,6 +24,12 @@ namespace hukukProjesi.Controllers
         {
             return View(db.Author.ToList());
         }
+        public ActionResult Contact()
+        {
+            var contacts = db.Contacts.ToList();
+            return View(contacts);
+        }
+
         // BLOG //
         public ActionResult Blog()
         {

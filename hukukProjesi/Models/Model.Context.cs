@@ -27,6 +27,7 @@ namespace hukukProjesi.Models
     
         public virtual DbSet<Author> Author { get; set; }
         public virtual DbSet<Blog> Blog { get; set; }
+        public virtual DbSet<Contacts> Contacts { get; set; }
         public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
     }
 }

@@ -3,6 +3,7 @@
   <EntityContainer Name="hukukDBEntities" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Author" EntityType="hukukDBModel.Author" />
     <EntitySet Name="Blog" EntityType="hukukDBModel.Blog" />
+    <EntitySet Name="Contacts" EntityType="hukukDBModel.Contacts" />
     <EntitySet Name="sysdiagrams" EntityType="hukukDBModel.sysdiagrams" />
   </EntityContainer>
   <EntityType Name="Author">
@@ -36,6 +37,19 @@
     <Property Name="DüzenlenmeTarihi" Type="DateTime" Precision="3" />
     <Property Name="image" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
     <Property Name="EkleyenKisi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Contacts">
+    <Key>
+      <PropertyRef Name="ContactId" />
+    </Key>
+    <Property Name="ContactId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ContactNameSurname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ContactMail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ContactPhone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ContactSubject" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="ContactMessage" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="ContactDate" Type="DateTime" Precision="3" />
+    <Property Name="ContactStatus" Type="Boolean" />
   </EntityType>
   <EntityType Name="sysdiagrams">
     <Key>
